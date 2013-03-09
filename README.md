@@ -1,5 +1,5 @@
 
-eurucamp Website README
+Ruby Berlin e.V. Website README
 =======================
 
 In this repository you'll find the website for Ruby Berlin e.V..
@@ -35,9 +35,9 @@ Download and install [POW](http://pow.cx/):
 Then:
 
     cd ~/.pow
-    ln -s /path/to/eurucamp_website eurucamp
+    ln -s /path/to/rubyberlin_website rubyberlin
 
-You will see the generated HTML & CSS by navigating to <http://eurucamp.dev/>.
+You will see the generated HTML & CSS by navigating to <http://rubyberlin.dev/>.
 
 ### With the built-in server
 
@@ -52,10 +52,10 @@ Deployment
 
 ### Staging
 
-* <http://dev.eurucamp.org/>
+* <http://dev.rubyberlin.org/>
 * `bundle exec rake staging deploy`
 
 ### Production
 
-* <http://2013.eurucamp.org/>
+* <http://rubyberlin.org/>
 * `bundle exec rake production deploy`
