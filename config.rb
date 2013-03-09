@@ -19,6 +19,8 @@ set :markdown_engine, :redcarpet
 #   config.output_style = :compact
 # end
 
+require 'zurb-foundation'
+
 ###
 # Page options, layouts, aliases and proxies
 ###

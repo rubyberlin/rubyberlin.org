@@ -137,6 +137,8 @@ GEM
     url_mount (0.2.1)
       rack
     yajl-ruby (1.1.0)
+    zurb-foundation (4.0.5)
+      sass (>= 3.2.0)
 
 PLATFORMS
   ruby
@@ -157,3 +159,4 @@ DEPENDENCIES
   redcarpet
   sass (~> 3.2.5)
   sitemap_generator
+  zurb-foundation (~> 4.0.5)

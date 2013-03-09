@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rake',              '~> 0.9.2'
 gem 'sass',              '~> 3.2.5'
+gem 'zurb-foundation',   '~> 4.0.5', require: false
 
 gem 'middleman',         '~> 3.0.12'
 gem 'builder'
