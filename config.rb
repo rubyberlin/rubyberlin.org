@@ -3,28 +3,15 @@ helpers CustomTagHelpers
 
 require 'active_support/core_ext/string'
 require 'app/helpers/html5_boilerplate_helper'
-require 'icalendar'
 
 set :markdown_engine, :redcarpet
-
-###
-# Blog settings
-###
-
-Middleman::Sitemap::Resource.class_eval do
-  def url_without_extension
-    ext.blank? ? url : url.sub(/#{ext}$/,'')
-  end
-end
-
-page "/schedule.ics", :layout => false
 
 ###
 # Compass
 ###
 
 # Susy grids in Compass
-# First: gem install compass-susy-plugin
+# First: gem install susy
 # require 'susy'
 
 # Change Compass configuration
