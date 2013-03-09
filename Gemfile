@@ -1,4 +1,4 @@
-source :rubygems
+source 'http://rubygems.org'
 
 gem 'rake',              '~> 0.9.2'
 gem 'sass',              '~> 3.2.5'
