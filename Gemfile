@@ -26,5 +26,5 @@ gem 'heroku_san',   '3.0.2'
 gem 'rack-contrib'
 gem 'rack-rewrite'
 
-gem 'rb-inotify', '~> 0.9'
+gem 'rb-inotify', '~> 0.9', require: false
 gem 'icalendar'
