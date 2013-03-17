@@ -1,4 +1,6 @@
 require 'bundler/setup'
+require 'psych'
+require 'yaml'
 require 'heroku_san'
 
 module HerokuSan::Deploy
@@ -6,15 +8,14 @@ module HerokuSan::Deploy
     def deploy
       super
       #@stage.rake('utils:update_sitemap')
-      #@stage.rake('utils:update_attendees')
     end
   end
 end
 
-# config_file = File.join(File.expand_path(File.dirname(__FILE__)), 'config', 'heroku.yml')
-# HerokuSan.project = HerokuSan::Project.new(config_file, :deploy => HerokuSan::Deploy::RubyBerlin)
-# 
-# load 'heroku_san/tasks.rb'
+config_file = File.join(File.expand_path(File.dirname(__FILE__)), 'config', 'heroku.yml')
+HerokuSan.project = HerokuSan::Project.new(config_file, :deploy => HerokuSan::Deploy::RubyBerlin)
+
+load 'heroku_san/tasks.rb'
 
 require 'nokogiri'
 require 'open-uri'
