@@ -3,8 +3,25 @@ body_class: index
 ---
 
 %article
+  %section
+    %div.row
+      %div.columns.small-12.large-12
+        %h2 Our projects
+    %div.row
+      %div.columns.small-12.large-4.project_image
+        = tag :img, :src => "images/content/projects/railsgirls.png"
+      %div.columns.small-12.large-4.project_image
+        = tag :img, :src => "images/content/projects/eurucamp2012.png"
+      %div.columns.small-12.large-4.project_image
+        = tag :img, :src => "images/content/projects/jrubyconf_logo.png"
+    %div.row
+      %div.columns.small-12.large-4.project_image
+        = tag :img, :src => "images/content/projects/eurucamp2013.png"
+      %div.columns.small-12.large-4.project_image
+        = tag :img, :src => "images/content/projects/euruko2011.jpg"
 
-  %section.partners.sponsors
-    = wrapped :header do
-      %h3 Our partners
-    = partial 'partials/partners', :locals => { :partners => data.partners }
+      %div.columns.small-12.large-4
+
+  / %section
+  /   %h2 Our partners
+  /   = partial 'partials/partners', :locals => { :partners => data.partners }

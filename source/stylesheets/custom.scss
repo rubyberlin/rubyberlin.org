@@ -1,0 +1,26 @@
+ul {
+  list-style: none;
+}
+
+h2 {
+  font-size: 18pt;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin-top: 30px;
+}
+
+.header {
+  border-bottom: 1px solid $white;
+  margin-bottom: 30px;
+}
+
+.footer {
+  margin-top: 50px;
+  border-top: 1px solid $white;
+}
+
+.project_image {
+  padding: 0 0 40px;
+}
