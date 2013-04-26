@@ -3,6 +3,12 @@ require 'psych'
 require 'yaml'
 require 'heroku_san'
 
+namespace :assets do
+  task :precompile do
+    sh 'middleman build'
+  end
+end
+
 module HerokuSan::Deploy
   class RubyBerlin < Sinatra
     def deploy
