@@ -27,7 +27,10 @@ body_class: index
       %div.columns.small-12.large-4.project_image
         = link_to 'http://2013.railscamp.de' do
           = image_tag "content/projects/railscamp_germany_2013.png"
-
+    %div.row
+      %div.columns.small-7.large-centered
+        %h3
+          = link_to "Read our current community statement", '2013-10-statement-community.html'
   / %section
   /   %h2 Our partners
   /   = partial 'partials/partners', :locals => { :partners => data.partners }
