@@ -42,7 +42,7 @@ The Ruby Berlin e.V. and friends, namely:
 * Rails Girls Berlin orga team
 * RUG::B orga team
 * eurucamp orga team
-* jrubyconf.eu orga team
+* JRubyConf.eu orga team
 * RedFrog Conf orga team
 * nerdkunde podcast
 * geekstammtisch podcast
