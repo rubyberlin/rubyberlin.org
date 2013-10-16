@@ -17,7 +17,7 @@ A community member came out about [her harassment experience](http://blogjustine
 
 We all joined the Ruby community because it is a warm and welcoming place - sadly, the aforementioned events draw a very different and very real picture. This is why we feel the need to speak out:
 
-We oppose any form of harassment or discrimination, including, but not limited to all forms of sexism and racism, strongly.
+We strongly oppose any form of harassment or discrimination, including, but not limited to all forms of sexism and racism.
 
 ## For Diversity
 
