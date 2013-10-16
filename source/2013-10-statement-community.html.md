@@ -79,6 +79,7 @@ In person:
 * Greg Karékinian [@gkarekinian](https://twitter.com/gkarekinian)
 * Sven Fuchs [@svenfuchs](https://twitter.com/svenfuchs)
 * Anika Lindtner [@langziehohr](https://twitter.com/langziehohr)
+* Jan Lelis [@happycode](https://twitter.com/happycode)
 
 And friends from outside of Germany:
 
