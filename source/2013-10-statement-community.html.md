@@ -77,6 +77,7 @@ In person:
 * Christoph Bünte [@chris_can_do](https://twitter.com/chris_can_do)
 * Matt Patterson [@fidothe](https://twitter.com/fidothe)
 * Greg Karékinian [@gkarekinian](https://twitter.com/gkarekinian)
+* Sven Fuchs [@svenfuchs](https://twitter.com/svenfuchs)
 
 And friends from outside of Germany:
 
