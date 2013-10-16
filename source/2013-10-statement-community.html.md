@@ -80,6 +80,7 @@ In person:
 * Sven Fuchs [@svenfuchs](https://twitter.com/svenfuchs)
 * Anika Lindtner [@langziehohr](https://twitter.com/langziehohr)
 * Jan Lelis [@happycode](https://twitter.com/happycode)
+* Christoph Grabo [@asaaki](https://twitter.com/asaaki)
 
 And friends from outside of Germany:
 
