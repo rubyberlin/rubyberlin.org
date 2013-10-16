@@ -76,6 +76,7 @@ In person:
 * Erik Michaels-Ober [@sferik](https://twitter.com/sferik)
 * Christoph Bünte [@chris_can_do](https://twitter.com/chris_can_do)
 * Matt Patterson [@fidothe](https://twitter.com/fidothe)
+* Sven Fuchs [@svenfuchs](https://twitter.com/svenfuchs)
 
 And friends from outside of Germany:
 
