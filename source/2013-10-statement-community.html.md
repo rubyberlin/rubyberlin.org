@@ -71,6 +71,7 @@ In person:
 * Tobias Eilert [@l_ama](http://twitter.com/l_ama)
 * Dirk Breuer [@railsbros_dirk](http://twitter.com/railsbros_dirk)
 * Sebastian Cohnen [@tisba](http://twitter.com/tisba)
+* Ernesto Míguez Rodríguez [@xemig](http://twitter.com/xemig)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
