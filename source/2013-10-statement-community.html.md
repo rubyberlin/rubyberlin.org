@@ -78,6 +78,7 @@ In person:
 * Matt Patterson [@fidothe](https://twitter.com/fidothe)
 * Greg Karékinian [@gkarekinian](https://twitter.com/gkarekinian)
 * Sven Fuchs [@svenfuchs](https://twitter.com/svenfuchs)
+* Anika Lindtner [@langziehohr](https://twitter.com/langziehohr)
 
 And friends from outside of Germany:
 
