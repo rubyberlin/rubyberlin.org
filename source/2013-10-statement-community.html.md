@@ -71,6 +71,7 @@ In person:
 * Tobias Eilert [@l_ama](http://twitter.com/l_ama)
 * Dirk Breuer [@railsbros_dirk](http://twitter.com/railsbros_dirk)
 * Sebastian Cohnen [@tisba](http://twitter.com/tisba)
+* Matthias Günther [@wikimatze](http://twitter.com/wikimatze)
 * Ernesto Míguez Rodríguez [@xemig](http://twitter.com/xemig)
 * Erik Michaels-Ober [@sferik](https://twitter.com/sferik)
 * Christoph Bünte [@chris_can_do](https://twitter.com/chris_can_do)
