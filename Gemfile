@@ -6,7 +6,7 @@ gem 'rake',              '~> 10.0.3'
 gem 'sass',              '~> 3.2.5'
 gem 'zurb-foundation',   '~> 4.0.5', require: false
 
-gem 'middleman',         '~> 3.0.12'
+gem 'middleman',         '~> 3.1.0'
 gem 'builder'
 gem 'sitemap_generator'
 gem 'coffee-script'
