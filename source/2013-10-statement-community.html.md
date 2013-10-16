@@ -70,7 +70,7 @@ In person:
 * Bodo Tasche [@bitboxer](http://twitter.com/bitboxer)
 * Tobias Eilert [@l_ama](http://twitter.com/l_ama)
 * Dirk Breuer [@railsbros_dirk](http://twitter.com/railsbros_dirk)
-* Sebastian Cohen [@tisba](http://twitter.com/tisba)
+* Sebastian Cohnen [@tisba](http://twitter.com/tisba)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
