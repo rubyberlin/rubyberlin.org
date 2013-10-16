@@ -72,6 +72,7 @@ In person:
 * Dirk Breuer [@railsbros_dirk](http://twitter.com/railsbros_dirk)
 * Sebastian Cohnen [@tisba](http://twitter.com/tisba)
 * Ernesto Míguez Rodríguez [@xemig](http://twitter.com/xemig)
+* Erik Michaels-Ober [@sferik](https://twitter.com/sferik)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
