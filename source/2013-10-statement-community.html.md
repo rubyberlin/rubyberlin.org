@@ -73,6 +73,7 @@ In person:
 * Sebastian Cohnen [@tisba](http://twitter.com/tisba)
 * Ernesto Míguez Rodríguez [@xemig](http://twitter.com/xemig)
 * Erik Michaels-Ober [@sferik](https://twitter.com/sferik)
+* Christoph Bünte [@chris_can_do](https://twitter.com/chris_can_do)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
