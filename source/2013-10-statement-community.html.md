@@ -76,7 +76,7 @@ In person:
 * Erik Michaels-Ober [@sferik](https://twitter.com/sferik)
 * Christoph Bünte [@chris_can_do](https://twitter.com/chris_can_do)
 
-Foreigners supporters:
+And friends from outside of Germany:
 
 * Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
 
