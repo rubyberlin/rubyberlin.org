@@ -76,6 +76,10 @@ In person:
 * Erik Michaels-Ober [@sferik](https://twitter.com/sferik)
 * Christoph Bünte [@chris_can_do](https://twitter.com/chris_can_do)
 
+Foreigners supporters:
+
+* Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
+
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
 October 16th, 2013
