@@ -81,9 +81,7 @@ In person:
 * Anika Lindtner [@langziehohr](https://twitter.com/langziehohr)
 * Jan Lelis [@happycode](https://twitter.com/happycode)
 * Robert Schmidl [@othertimes](https://twitter.com/othertimes)
-
-And friends from outside of Germany:
-
+* Christoph Grabo [@asaaki](https://twitter.com/asaaki) 
 * Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
 * Kerstin Kollmann [@kkvie](https://twitter.com/kkvie)
 
