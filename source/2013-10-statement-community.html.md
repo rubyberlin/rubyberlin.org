@@ -7,6 +7,13 @@ layout: article_layout
 
 During the last weekend, several events have shaken the Ruby community. We feel that due to the gravity of these issues, a direct statement in addition to those of individual members of the Ruby Berlin e.V. is necessary.
 
+This boils down to 4 points
+
+* We are against Harassment and Ignorance
+* We are for diversity
+* We are Not in this for the Drinks
+* We care
+
 ## Against Harassment and Ignorance
 
 Two incidents caught our eye this weekend (in the order they came to our knowledge):
