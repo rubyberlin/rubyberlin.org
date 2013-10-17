@@ -91,6 +91,9 @@ In person:
 * Christoph Olszowka [@thedeadserious](https://twitter.com/thedeadserious)
 * Marek Rosa [@marekrosa](https://twitter.com/marekrosa)
 * Caio Filipini [caiofilipini](https://github.com/caiofilipini)
+* The Berlin JavaScript Community [@berlinjs](https://twitter.com/berlinjs)
+* Robin Mehner [@rmehner](https://twitter.com/rmehner)
+* Jan Lehnardt [@janl](https://twitter.com/janl)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
