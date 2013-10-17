@@ -9,9 +9,9 @@ During the last weekend, several events have shaken the Ruby community. We feel 
 
 This boils down to 4 points
 
-* We are against Harassment and Ignorance
+* We are against harassment and ignorance
 * We are for diversity
-* We are Not in this for the Drinks
+* We are not in this for the drinks
 * We care
 
 ## Against Harassment and Ignorance
