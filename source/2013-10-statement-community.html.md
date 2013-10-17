@@ -86,6 +86,7 @@ In person:
 * Kerstin Kollmann [@kkvie](https://twitter.com/kkvie)
 * Carlos Moutinho [@carlosmoutinho](https://twitter.com/carlosmoutinho)
 * Simon Kröger [@kroegerberlin](https://twitter.com/kroegerberlin)
+* Julius de Bruijn [pimeys](https://github.com/pimeys)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
