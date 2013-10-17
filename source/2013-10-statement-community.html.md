@@ -84,6 +84,7 @@ In person:
 * Christoph Grabo [@asaaki](https://twitter.com/asaaki) 
 * Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
 * Kerstin Kollmann [@kkvie](https://twitter.com/kkvie)
+* Tilmann Singer [@til](https://twitter.com/til)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
