@@ -81,12 +81,15 @@ In person:
 * Anika Lindtner [@langziehohr](https://twitter.com/langziehohr)
 * Jan Lelis [@happycode](https://twitter.com/happycode)
 * Robert Schmidl [@othertimes](https://twitter.com/othertimes)
-* Christoph Grabo [@asaaki](https://twitter.com/asaaki) 
+* Christoph Grabo [@asaaki](https://twitter.com/asaaki)
 * Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
 * Kerstin Kollmann [@kkvie](https://twitter.com/kkvie)
 * Carlos Moutinho [@carlosmoutinho](https://twitter.com/carlosmoutinho)
 * Simon Kröger [@kroegerberlin](https://twitter.com/kroegerberlin)
 * Julius de Bruijn [pimeys](https://github.com/pimeys)
+* Tilmann Singer [@til](https://twitter.com/til)
+* Christoph Olszowka [@thedeadserious](https://twitter.com/thedeadserious)
+* Marek Rosa [@marekrosa](https://twitter.com/marekrosa)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
