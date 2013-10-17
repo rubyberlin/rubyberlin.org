@@ -85,6 +85,7 @@ In person:
 * Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
 * Kerstin Kollmann [@kkvie](https://twitter.com/kkvie)
 * Carlos Moutinho [@carlosmoutinho](https://twitter.com/carlosmoutinho)
+* Simon Kröger [@kroegerberlin](https://twitter.com/kroegerberlin)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
