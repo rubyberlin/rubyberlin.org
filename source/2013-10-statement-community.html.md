@@ -107,7 +107,6 @@ In person:
 * Markus Krogemann [@mkrogemann](https://twitter.com/mkrogemann)
 * Sebastian Schulze [@bascht](https://twitter.com/bascht)
 
-
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
 October 16th, 2013
