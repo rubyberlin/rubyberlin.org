@@ -90,6 +90,7 @@ In person:
 * Tilmann Singer [@til](https://twitter.com/til)
 * Christoph Olszowka [@thedeadserious](https://twitter.com/thedeadserious)
 * Marek Rosa [@marekrosa](https://twitter.com/marekrosa)
+* Caio Filipini [caiofilipini](https://github.com/caiofilipini)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
