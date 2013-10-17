@@ -103,6 +103,7 @@ In person:
 * Jan Lehnardt [@janl](https://twitter.com/janl)
 * Garret Alfert [@galfert](https://twitter.com/galfert)
 * André Wendt [@awendt](https://twitter.com/awendt)
+* Txus [@txustice](https://twitter.com/txustice)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
