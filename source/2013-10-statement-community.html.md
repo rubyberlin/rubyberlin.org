@@ -84,6 +84,7 @@ In person:
 And friends from outside of Germany:
 
 * Yannick Schutz [@yann_ck](http://twitter.com/yann_ck)
+* Kerstin Kollmann [@kkvie](https://twitter.com/kkvie)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
