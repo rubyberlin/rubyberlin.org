@@ -53,6 +53,7 @@ The Ruby Berlin e.V. and friends, namely:
 * RedFrog Conf orga team
 * nerdkunde podcast
 * geekstammtisch podcast
+* up.front orga team
 
 In person:
 
