@@ -106,6 +106,7 @@ In person:
 * Txus [@txustice](https://twitter.com/txustice)
 * Markus Krogemann [@mkrogemann](https://twitter.com/mkrogemann)
 * Sebastian Schulze [@bascht](https://twitter.com/bascht)
+* Florian Plank [@polarblau](https://twitter.com/polarblau)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
