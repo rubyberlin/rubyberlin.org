@@ -112,6 +112,7 @@ In person:
 * Simão Mata [@simaom](https://twitter.com/simaom)
 * Ivan Kamatovic [@ikamatovic](https://twitter.com/ikamatovic)
 * Florian Ebeling [@febeling](https://twitter.com/febeling)
+* Alexander Sulim [@soulim](https://twitter.com/soulim)
 
 Want to support us and feel missing on this list? [Mail us](mailto:info@rubyberlin.org) or send a [pull request](http://github.com/rubyberlin/rubyberlin.org).
 
