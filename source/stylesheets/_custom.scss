@@ -22,5 +22,28 @@ h3 {
 }
 
 .project_image {
-  padding: 0 0 40px;
+  background: lighten($body-bg, 5%);
+  border: 10px $body-bg solid;
+  overflow: hidden;
+  padding: 33.3333% 0 0;
+  position: relative;
+
+  a {
+    left: 50%;
+    max-height: 100%;
+    position: absolute;
+    top: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    @media only screen and (min-width: 48em) {
+      width: 90%;
+    }
+  }
+
+  img {
+    vertical-align: middle;
+    width: 100%;
+  }
 }
