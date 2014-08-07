@@ -12,13 +12,25 @@ h3 {
 }
 
 .header {
-  border-bottom: 1px solid $white;
   margin-bottom: 30px;
+
+  &:after {
+    border-top: 1px lighten($body-bg, 5%) solid;
+    content: "";
+    display: block;
+    margin: 0 10px;
+  }
 }
 
 .footer {
   margin-top: 50px;
-  border-top: 1px solid $white;
+
+  &:before {
+    border-top: 1px lighten($body-bg, 5%) solid;
+    content: "";
+    display: block;
+    margin: 0 10px 10px;
+  }
 }
 
 .project_image {
