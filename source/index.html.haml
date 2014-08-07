@@ -5,6 +5,10 @@ body_class: index
 %article
   %section
     %div.row
+      %div.columns.small-12.large-centered.community-statement
+        %h3
+          = link_to "Read our current community statement", '2013-10-statement-community.html'
+    %div.row
       %div.columns.small-12.large-12
         %h2 Our projects
       %div.columns.small-12.large-4.project_image
@@ -46,10 +50,6 @@ body_class: index
         = link_to 'http://euruko2011.org' do
           = image_tag "content/projects/euruko2011.jpg"
       %div.columns.small-12.large-4.project_image
-    %div.row
-      %div.columns.small-7.large-centered
-        %h3
-          = link_to "Read our current community statement", '2013-10-statement-community.html'
   / %section
   /   %h2 Our partners
   /   = partial 'partials/partners', :locals => { :partners => data.partners }
