@@ -29,32 +29,34 @@ body_class: index
       %div.columns.small-12.large-12
         %h2 Our events
       %div.columns.small-12.large-4.project_image
+        = link_to 'http://2015.eurucamp.org/' do
+          = image_tag "content/projects/eurucamp-2015.svg"
+      %div.columns.small-12.large-4.project_image
         = link_to 'http://2014.eurucamp.org/' do
           = image_tag "content/projects/eurucamp-2014.svg"
       %div.columns.small-12.large-4.project_image
         = link_to 'http://lightning.io/' do
           = image_tag "content/projects/lightning-io.svg"
+    %div.row
       %div.columns.small-12.large-4.project_image
         = link_to 'http://2014.railscamp.de' do
           = image_tag "content/projects/railscamp-2014.png"
-    %div.row
       %div.columns.small-12.large-4.project_image
         = link_to 'http://2013.eurucamp.org' do
           = image_tag "content/projects/eurucamp-2013.png"
       %div.columns.small-12.large-4.project_image
         = link_to 'http://jrubyconf.eu' do
           = image_tag "content/projects/jrubyconf.svg"
+    %div.row
       %div.columns.small-12.large-4.project_image
         = link_to 'http://2013.railscamp.de' do
           = image_tag "content/projects/railscamp-2013.png"
-    %div.row
       %div.columns.small-12.large-4.project_image
         = link_to 'http://2012.eurucamp.org' do
           = image_tag "content/projects/eurucamp-2012.png"
       %div.columns.small-12.large-4.project_image
         = link_to 'http://euruko2011.org' do
           = image_tag "content/projects/euruko-2011.png"
-      %div.columns.small-12.large-4.project_image
   / %section
   /   %h2 Our partners
   /   = partial 'partials/partners', :locals => { :partners => data.partners }
