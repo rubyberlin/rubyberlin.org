@@ -1,27 +1,12 @@
 require 'bundler/setup'
 require 'psych'
 require 'yaml'
-require 'heroku_san'
 
 namespace :assets do
   task :precompile do
     sh 'middleman build'
   end
 end
-
-module HerokuSan::Deploy
-  class RubyBerlin < Sinatra
-    def deploy
-      super
-      #@stage.rake('utils:update_sitemap')
-    end
-  end
-end
-
-config_file = File.join(File.expand_path(File.dirname(__FILE__)), 'config', 'heroku.yml')
-HerokuSan.project = HerokuSan::Project.new(config_file, :deploy => HerokuSan::Deploy::RubyBerlin)
-
-load 'heroku_san/tasks.rb'
 
 require 'nokogiri'
 require 'open-uri'
