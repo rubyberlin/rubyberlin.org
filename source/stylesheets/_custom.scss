@@ -59,3 +59,9 @@ h3 {
     width: 100%;
   }
 }
+
+.secondary-navigation {
+  > ul {
+    @include inline-list;
+  }
+}
