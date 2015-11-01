@@ -33,15 +33,6 @@ h3 {
   }
 }
 
-.community-statement {
-  &:after {
-    border-top: 1px lighten($body-bg, 5%) solid;
-    content: "";
-    display: block;
-    margin: 0 -5px 2em;
-  }
-}
-
 .project_image {
   background: lighten($body-bg, 5%);
   border: 10px $body-bg solid;
