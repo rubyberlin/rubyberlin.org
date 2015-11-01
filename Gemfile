@@ -28,8 +28,5 @@ group :production do
   gem 'rack-rewrite'
 end
 
-# FIXME: Need to set this up with Bundler groups correctly
-gem 'heroku_san',   '3.0.2'
-
 gem 'rb-inotify', '~> 0.9', require: false
 gem 'icalendar'

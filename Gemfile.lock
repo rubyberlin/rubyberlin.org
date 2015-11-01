@@ -38,11 +38,6 @@ GEM
       rubyzip
     heroku-api (0.2.13)
       excon (~> 0.15.4)
-    heroku_san (3.0.2)
-      activesupport
-      heroku (>= 2)
-      heroku-api (>= 0.1.2)
-      rake
     hike (1.2.3)
     i18n (0.6.4)
     icalendar (1.2.2)
@@ -137,7 +132,6 @@ DEPENDENCIES
   builder
   coffee-script
   heroku (= 2.26.6)
-  heroku_san (= 3.0.2)
   html5-boilerplate!
   icalendar
   middleman (~> 3.1.0)
