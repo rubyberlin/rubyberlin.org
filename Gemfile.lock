@@ -12,7 +12,6 @@ GEM
     activesupport (3.2.12)
       i18n (~> 0.6)
       multi_json (~> 1.0)
-    addressable (2.3.3)
     builder (3.2.0)
     chunky_png (1.2.7)
     coffee-script (2.2.0)
@@ -23,27 +22,16 @@ GEM
       chunky_png (~> 1.2)
       fssm (>= 0.2.7)
       sass (~> 3.1)
-    excon (0.15.5)
     execjs (1.4.0)
       multi_json (~> 1.0)
     ffi (1.4.0)
     fssm (0.2.10)
     haml (4.0.3)
       tilt
-    heroku (2.26.6)
-      heroku-api (~> 0.2.4)
-      launchy (>= 0.3.2)
-      netrc (~> 0.7.2)
-      rest-client (~> 1.6.1)
-      rubyzip
-    heroku-api (0.2.13)
-      excon (~> 0.15.4)
     hike (1.2.3)
     i18n (0.6.4)
     icalendar (1.2.2)
     kramdown (1.1.0)
-    launchy (2.2.0)
-      addressable (~> 2.3)
     listen (1.2.3)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
@@ -75,10 +63,8 @@ GEM
       sprockets (~> 2.1)
       sprockets-helpers (~> 1.0.0)
       sprockets-sass (~> 1.0.0)
-    mime-types (1.21)
     mini_portile (0.6.2)
     multi_json (1.6.1)
-    netrc (0.7.7)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     posix-spawn (0.3.6)
@@ -100,9 +86,6 @@ GEM
     rb-kqueue (0.2.0)
       ffi (>= 0.5.0)
     redcarpet (2.2.2)
-    rest-client (1.6.7)
-      mime-types (>= 1.16)
-    rubyzip (0.9.9)
     sass (3.2.6)
     sitemap_generator (3.4)
       builder
@@ -131,7 +114,6 @@ PLATFORMS
 DEPENDENCIES
   builder
   coffee-script
-  heroku (= 2.26.6)
   html5-boilerplate!
   icalendar
   middleman (~> 3.1.0)
