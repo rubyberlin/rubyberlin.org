@@ -92,6 +92,9 @@ configure :build do
 
   activate :gzip
 
+  activate :relative_assets
+  set :relative_links, true
+
   # Use relative URLs
   # activate :relative_assets
 
