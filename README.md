@@ -9,7 +9,7 @@ Install
 
 Provided you have RVM installed, installation should require **4 Steps**:
 
-    rvm 1.9.3
+    rvm 2.2.3
     rvm gemset create middleman
     gem install bundler
     bundle install
@@ -35,7 +35,7 @@ Download and install [POW](http://pow.cx/):
 Then:
 
     cd ~/.pow
-    ln -s /path/to/rubyberlin_website rubyberlin
+    ln -s /path/to/rubyberlin_repo rubyberlin
 
 You will see the generated HTML & CSS by navigating to <http://rubyberlin.dev/>.
 
