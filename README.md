@@ -1,13 +1,12 @@
+Ruby Berlin e. V. Website README
+================================
 
-Ruby Berlin e.V. Website README
-=======================
-
-In this repository you'll find the website for Ruby Berlin e.V..
+In this repository you’ll find the website for Ruby Berlin e. V.
 
 Install
 -------
 
-Provided you have RVM installed, installation should require **4 Steps**:
+Provided you have RVM installed, installation should require **4 Steps:**
 
     rvm 2.3.0
     rvm gemset create middleman
@@ -19,7 +18,7 @@ Running
 
 ### Building static pages
 
-You can build the site into a `build`-directory:
+You can build the site into a `build` directory:
 
     bundle exec middleman build
 
