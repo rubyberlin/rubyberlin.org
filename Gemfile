@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.0'
+ruby '2.3.1'
 
 gem 'rake',              '~> 10.0.3'
 gem 'sass',              '~> 3.2.5'
