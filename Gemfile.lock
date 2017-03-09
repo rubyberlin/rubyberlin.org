@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/edenspiekermann/compass-html5-boilerplate.git
+  remote: https://github.com/edenspiekermann/compass-html5-boilerplate.git
   revision: e415a36afe3d5240a46d48d0c7529b92b54d09bf
   branch: padrino
   specs:
@@ -138,5 +138,8 @@ DEPENDENCIES
   sitemap_generator
   zurb-foundation (~> 4.0.5)
 
+RUBY VERSION
+   ruby 2.3.3p222
+
 BUNDLED WITH
-   1.11.2
+   1.14.6

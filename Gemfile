@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.3.1'
+ruby '2.3.3'
 
 gem 'rake',              '~> 10.0.3'
 gem 'sass',              '~> 3.2.5'
@@ -17,7 +17,7 @@ gem 'pygments.rb'
 
 
 gem 'html5-boilerplate', :require => 'html5-boilerplate',
-                         :git     => 'git://github.com/edenspiekermann/compass-html5-boilerplate.git',
+                         :git     => 'https://github.com/edenspiekermann/compass-html5-boilerplate.git',
                          :branch  => 'padrino'
 
 group :production do
