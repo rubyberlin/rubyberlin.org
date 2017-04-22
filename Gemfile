@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.3.3'
-
 gem 'rake',              '~> 10.0.3'
 gem 'sass',              '~> 3.2.5'
 gem 'zurb-foundation',   '~> 4.0.5', require: false
