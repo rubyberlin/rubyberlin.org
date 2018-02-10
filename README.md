@@ -8,7 +8,7 @@ Install
 
 Provided you have RVM installed, installation should require **4 Steps:**
 
-    rvm 2.3.3
+    rvm 2.4.2
     rvm gemset create middleman
     gem install bundler
     bundle install
