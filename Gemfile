@@ -5,7 +5,7 @@ gem 'sass',              '~> 3.4.0'
 gem 'jquery-middleman', require: false
 gem 'zurb-foundation',   '~> 4.3.2', require: false
 gem 'middleman',         '~> 3.4.1'
-gem 'middleman-deploy',  '~> 1.0'
+gem 'middleman-gh-pages'
 gem 'builder'
 gem 'sitemap_generator'
 gem 'coffee-script'

@@ -1,6 +1,7 @@
 require 'bundler/setup'
 require 'psych'
 require 'yaml'
+require 'middleman-gh-pages'
 
 namespace :assets do
   task :precompile do

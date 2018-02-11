@@ -62,23 +62,6 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-# Github Pages
-activate :deploy do |deploy|
-  deploy.method = :git
-  # remote is optional (default is "origin")
-  # run `git remote -v` to see a list of possible remotes
-  deploy.remote = "origin"
-
-  # branch is optional (default is "gh-pages")
-  # run `git branch -a` to see a list of possible branches
-  deploy.branch = "gh-pages"
-
-  # strategy is optional (default is :force_push)
-  deploy.strategy = :force_push
-
-  deploy.build_before = true
-end
-
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment

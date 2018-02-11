@@ -49,4 +49,8 @@ You will see the generated HTML & CSS by navigating to <http://localhost:4567/>.
 Deployment
 ----------
 
-Deployment happens automatically upon every push to the `master` branch via GitHub Pages.
+To the deploy the page, run the following rake commands, which will push the
+HTML build onto the `gh-pages` branch:
+
+    bundle exec rake build
+    bundle exec rake publish
