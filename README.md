@@ -45,3 +45,8 @@ To run:
     bundle exec middleman server
 
 You will see the generated HTML & CSS by navigating to <http://localhost:4567/>.
+
+Deployment
+----------
+
+Deployment happens automatically upon every push to the `master` branch via GitHub Pages.
