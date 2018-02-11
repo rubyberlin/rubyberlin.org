@@ -54,32 +54,21 @@ h3 {
   }
 }
 
-.project_image {
-  background: darken($body-bg, 8%);
-  border-radius: 10%;
-  border: 10px $body-bg solid;
-  overflow: hidden;
-  padding: 15% 0 0;
-  position: relative;
+.projects, .events {
+    ul {
+        display: flex;
+        align-items: stretch;
+        flex-wrap: wrap;
 
-  a {
-    left: 50%;
-    max-height: 100%;
-    position: absolute;
-    top: 50%;
-    -moz-transform: translateX(-50%) translateY(-50%);
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-    @media only screen and (min-width: 28em) {
-      width: 90%;
+        li {
+            a {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            background-color: $white;
+            }
+        }
     }
-  }
-
-  img {
-    vertical-align: middle;
-    width: 100%;
-  }
 }
 
 .secondary-navigation {
