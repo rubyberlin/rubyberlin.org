@@ -1,0 +1,38 @@
+---
+body_class: members
+title: Mitglied werden
+---
+
+%div.row
+  %div.columns.small-12.large-6
+    %article
+      %h2 Mitglied werden
+      %p
+        Wir freuen uns sehr über neue Mitglieder, erwarten von diesen aber
+        direktes Engagement. Durch die Teilnahme an den jährlichen
+        Vereinssitzungen kannst Du aktiv die Vereinsarbeit mitgestalten und so
+        die Arbeit unserer Projekte unterstützen. Fördermitglieder haben keine
+        Stimmrechte und sind von diesen Pflichten befreit, unterstützen aber
+        dennoch die Aktionen des Vereins und werden darüber auf dem Laufenden
+        gehalten.
+
+      %p
+        Lade Dir hier unser Mitgliedsformular herunter und
+        schicke
+
+        uns einen Scan per E-Mail an
+        = link_to 'mailto:info@rubyberlin.org' do
+          info@rubyberlin.org
+        oder bringe ihn zur nächsten Mitgliederversammlung mit.
+
+
+  %div.columns.small-12.large-6
+    %article
+      %h4 Mitgliedsformular
+      %div.antrag
+        = link_to 'files/mitgliedsantrag_rubyberlin.pdf' do 
+          = image_tag('content/antrag_thumbnail.svg', width: 250)
+
+      %hr
+      = link_to 'files/mitgliedsantrag_rubyberlin.pdf' do
+        Mitgliedsantrag

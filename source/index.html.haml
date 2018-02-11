@@ -1,68 +1,91 @@
 ---
 body_class: index
 ---
+%article
+  %section
+    %div.row
+      %div.columns.small-12-large-12
+        :markdown
+          _Willkommen beim Ruby Berlin e.V._! Wir sind ein gemeinnütziger
+          Verein, der sich der Förderung und Ausbildung im Bereich der
+          Programmiersprache Ruby widmet. Inzwischen ist der Verein über Berlin
+          hinaus gewachsen und hat Mitglieder und Events in ganz Deutschland,
+          von Berlin ist also nur noch der Name geblieben. Alle Mitwirkenden
+          arbeiten ehrenamtlich, in Steuer-, Versicherungs- und Rechtsfragen
+          nimmt der Verein externe Hilfe in Anspruch. Der Verein hat daher kaum
+          Verwaltungskosten.
+
+          ## Was organisiert der Ruby Berlin e.V.?
+
+          Der Ruby Berlin e. V. wurde zur Organisation der EuRuKo 2011
+          gegründet. Inzwischen sind wir über Berlin hinaus gewachsen und
+          organisieren Konferenzen und andere Projekte im gesamten europäischen
+          Raum. So haben wir das eurucamp sowie die jrubyconf Europe von 2012
+          bis 2015 organisiert und für andere Konferenzen den organisatorischen
+          Rahmen gestellt, u. A. für das Railscamp Cologne sowie die Euruko 2015
+          in Salzburg. Für dieses Jahr steht ausser der Ruby On Ice auch die
+          Isle Of Ruby auf dem Programm. Das größte Projekt unter dem Schirm des
+          Vereins ist „Rails Girls Berlin“, welches Programmierworkshops für
+          Anfänger*innen organisiert und die Community wachsen lässt. Wir sind
+          offen für weitere Projekte und bieten Unterstützung organisatorischer
+          und finanzieller Art. Schreibt uns einfach an die unten stehende
+          Email-Adresse.
 
 %article
   %section
     %div.row
       %div.columns.small-12.large-12
-        %h2 Our projects
-      %div.columns.small-12.large-4.project_image
+        %h2 Projekte
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://railsgirlshh.onruby.de/' do
           = image_tag "content/projects/rails-girls-hh.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://rug-b.de/' do
           = image_tag "content/projects/rug-b.png"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://railsgirlsberlin.de' do
           = image_tag "content/projects/rails-girls-berlin.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://rubyberlin.github.io/code-of-conduct/' do
           = image_tag "content/projects/berlin-code-of-conduct.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://railsgirls.com/munich2017.html' do
           = image_tag "content/projects/rails-girls-munich.png"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
     %div.row
       %div.columns.small-12.large-12
-        %h2 Our events
-      %div.columns.small-12.large-4.project_image
+        %h2 Events
+      %div.columns.small-2.large-2.project_image
         = link_to 'https://www.rubyonice.com/2018' do
           = image_tag "content/projects/rubyonice-2018.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://www.euruko2015.org/' do
           = image_tag "content/projects/euruko-2015.png"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://2015.eurucamp.org/' do
           = image_tag "content/projects/eurucamp-2015.svg"
-    %div.row
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://2014.eurucamp.org/' do
           = image_tag "content/projects/eurucamp-2014.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://lightning.io/' do
           = image_tag "content/projects/lightning-io.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://2014.railscamp.de' do
           = image_tag "content/projects/railscamp-2014.png"
-    %div.row
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://2013.eurucamp.org' do
           = image_tag "content/projects/eurucamp-2013.png"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://jrubyconf.eu' do
           = image_tag "content/projects/jrubyconf.svg"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://2013.railscamp.de' do
           = image_tag "content/projects/railscamp-2013.png"
-    %div.row
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://2012.eurucamp.org' do
           = image_tag "content/projects/eurucamp-2012.png"
-      %div.columns.small-12.large-4.project_image
+      %div.columns.small-2.large-2.project_image
         = link_to 'http://euruko2011.org' do
           = image_tag "content/projects/euruko-2011.png"
-      %div.columns.small-12.large-4.project_image
-  / %section
-  /   %h2 Our partners
-  /   = partial 'partials/partners', :locals => { :partners => data.partners }
+      %div.columns.small-2.large-2.project_image
