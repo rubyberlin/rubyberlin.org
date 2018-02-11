@@ -1,7 +1,21 @@
 %header
   %div.row.header
     %div.columns.small-12.large-12
-      =link_to '/' do
-        %h1
-          Ruby Berlin
-          %abbr(title='eingetragener Verein (a registered voluntary organisation)') e.V.
+      %nav.top-bar{"data-topbar" => "", :role => "navigation"}
+        %ul.title-area
+          %li.name
+            %h1
+              = link_to '/' do
+                Ruby Berlin
+                %abbr(title='eingetragener Verein (a registered voluntary organisation)') e.V.
+          %li.toggle-topbar.menu-icon
+            %a{:href => "#"}
+              %span Menu
+        %section.top-bar-section
+          %ul.left
+            %li
+              = link_to 'Mitglied werden', 'members.html'
+            %li
+              = link_to 'Fragen & Antworten', 'faq.html'
+            %li
+              = link_to 'Impressum', 'imprint.html'

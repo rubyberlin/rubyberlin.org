@@ -20,6 +20,27 @@ h3 {
     display: block;
     margin: 0 10px;
   }
+  ul.title-area {
+    //  margin: 0 2em 0 1em;
+      li.name {
+          h1 {
+              color: white;
+              abbr {
+                  color: $white;
+                  border-bottom: none;
+              }
+              z-index:10005;
+          }
+      }
+      li.name:before {
+
+          height: 1em;
+          width: 1em;
+          position: absolute;
+          z-index: 0;
+      }
+
+  }
 }
 
 .footer {
@@ -34,10 +55,11 @@ h3 {
 }
 
 .project_image {
-  background: lighten($body-bg, 5%);
+  background: darken($body-bg, 8%);
+  border-radius: 10%;
   border: 10px $body-bg solid;
   overflow: hidden;
-  padding: 33.3333% 0 0;
+  padding: 15% 0 0;
   position: relative;
 
   a {
@@ -49,7 +71,7 @@ h3 {
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-    @media only screen and (min-width: 48em) {
+    @media only screen and (min-width: 28em) {
       width: 90%;
     }
   }
@@ -64,4 +86,21 @@ h3 {
   > ul {
     @include inline-list;
   }
+}
+div#container {
+  background-image: url("/images/layout/header/ruby_logo.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 95% 5%;
+
+  background-color: rgba(255,255,255,0.8);
+  background-blend-mode: lighten;
+
+}
+article {
+    .antrag {
+        img {
+            box-shadow: 3px 3px 6px gray;
+        }
+    }
 }
