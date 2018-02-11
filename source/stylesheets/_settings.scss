@@ -1,5 +1,4 @@
 // Required global settings and mixins for Foundation
-@import "foundation/foundation-global";
 
 // Settings file to override Foundation variables
 
@@ -16,9 +15,9 @@
 $white: #fff;
 
 // We use these to control various global styles
-$body-bg: #333;
-$body-font-color: #fff;
-// $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$body-bg: $white;
+$body-font-color: #030303;
+$body-font-family: 'Source Sans Pro', sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
 
@@ -71,10 +70,10 @@ $body-font-color: #fff;
 //
 
 // We use these to control header font styles
-// $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
-// $header-font-weight: bold;
+$header-font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+$header-font-weight: 900;
 // $header-font-style: normal;
-$header-font-color: #fff;
+$header-font-color: #020202;
 // $header-line-height: 1.4;
 // $header-top-margin: .2em;
 // $header-bottom-margin: .5em;
