@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="280px"
+   height="280px"
+   viewBox="0 0 280 280"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="berlin-code-of-conduct.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="3.3714286"
+     inkscape:cx="191.86496"
+     inkscape:cy="129.35645"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="logo" />
+  <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">berlin-code-of-conduct</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs7">
+    <path
+       d="M87.3009329,64.9275186 C69.9713198,66.161186 57.6415015,79.8474017 57.6415015,96.551089 C57.6415015,112.554434 68.9589551,125.788708 85.1478158,127.955421 L82.8881984,194.100894 L95.9959754,185.88179 L94.0195531,128.026247 L94.0195531,128.026247 C110.53916,126.094912 122.332713,112.739531 122.332713,96.5507994 C122.332713,79.6660218 109.503072,65.8647662 91.8627962,64.8917965 L89.6330202,-0.380134717 L89.6330202,10.0343931 L89.5319292,-0.380134717 L87.3009329,64.9275186 L87.3009329,64.9275186 L87.3009329,64.9275186 Z M47.9349687,116.1031 C43.3928631,119.204844 38.0153307,121.352399 32.1063376,121.352399 C18.8306774,121.352399 8.7670301,110.668291 8.7670301,97.1028898 C8.7670301,83.5375847 18.8306774,72.2293834 32.1063376,72.2293834 C38.1172612,72.2293834 43.5729949,74.5426615 47.9825234,78.0479529 L52.9121764,72.0831567 C47.1808172,68.004251 40.0955399,65.3872267 32.1063376,65.3872267 C13.4420008,65.3875162 -0.11610592,79.5856019 -0.11610592,97.101442 C-0.11610592,114.617379 13.4420008,128.816816 32.1063376,128.816816 C40.0940988,128.816816 47.1794722,126.201239 53.0731901,122.319522 L47.9349687,116.1031 L47.9349687,116.1031 Z M178.381465,116.1031 C173.839359,119.204844 168.461827,121.352399 162.552834,121.352399 C149.277174,121.352399 139.213526,110.668291 139.213526,97.1028898 C139.213526,83.5375847 149.277174,72.2293834 162.552834,72.2293834 C168.563758,72.2293834 174.019491,74.5426615 178.42902,78.0479529 L183.358673,72.0831567 C177.627314,68.004251 170.542036,65.3872267 162.552834,65.3872267 C143.888497,65.3875162 130.33039,79.5856019 130.33039,97.101442 C130.33039,114.617379 143.888497,128.816816 162.552834,128.816816 C170.540595,128.816816 177.625969,126.201239 183.519686,122.319522 L178.381465,116.1031 L178.381465,116.1031 Z M89.8642332,120.801756 C76.5882848,120.801756 66.5246375,110.117649 66.5246375,96.5522472 C66.5246375,82.9869421 76.5882848,71.6787408 89.8642332,71.6787408 C103.137011,71.6787408 113.768818,82.881543 113.768818,96.4469446 C113.768818,110.01225 103.137011,120.801756 89.8642332,120.801756 L89.8642332,120.801756 Z"
+       id="path-1" />
+  </defs>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     sketch:type="MSPage">
+    <g
+       id="berlin-code-of-conduct"
+       sketch:type="MSLayerGroup"
+       transform="translate(48.000000, 43.000000)">
+      <g
+         id="logo">
+        <use
+           fill="#FFFFFF"
+           fill-rule="evenodd"
+           sketch:type="MSShapeGroup"
+           xlink:href="#path-1"
+           id="use9" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           style="fill:#000000;fill-opacity:1"
+           xlink:href="#path-1"
+           id="use11" />
+      </g>
+    </g>
+  </g>
+</svg>
