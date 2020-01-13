@@ -16,11 +16,5 @@ gem 'pygments.rb'
 
 gem 'html5-boilerplate', :require => 'html5-boilerplate'
 
-group :production do
-  gem 'puma',         '~> 1.6.3'
-  gem 'rack-contrib'
-  gem 'rack-rewrite'
-end
-
 gem 'rb-inotify', '~> 0.9', require: false
 gem 'icalendar'
