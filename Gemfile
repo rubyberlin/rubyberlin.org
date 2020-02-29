@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rake',              '~> 10.0.3'
+gem 'rake',              '~> 12.3.3'
 gem 'sass',              '~> 3.4.0'
 gem 'jquery-middleman', require: false
 gem 'zurb-foundation',   '~> 4.3.2', require: false
