@@ -108,7 +108,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     sass (3.4.25)
     sitemap_generator (6.1.0)
       builder (~> 3.0)
